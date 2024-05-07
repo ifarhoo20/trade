@@ -1,4 +1,4 @@
-# Logs
+# Logstrade
 logs
 *.log
 npm-debug.log*
