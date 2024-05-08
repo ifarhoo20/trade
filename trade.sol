@@ -1,5 +1,5 @@
-# Logstrader.
-logs
+# Logstrade
+logs trade
 *.log
 npm-debug.log*
 yarn-debug.log*
