@@ -1,4 +1,4 @@
-# Logstrader
+# Logstrader.
 logs
 *.log
 npm-debug.log*
