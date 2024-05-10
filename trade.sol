@@ -1,3 +1,4 @@
+#new trade code incoming
 # Logstrade
 logs trade
 *.log
